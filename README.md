@@ -15,3 +15,38 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-repository-url.git
    cd your-repository-directory
+```
+
+### 2. **Set up the environment** 
+Install all required dependencies by running:
+```bash 
+pip install -r requirements.txt
+cd client && npm install
+```
+
+### 3. **Run the application**
+Run in root directory 
+```bash
+python run_in_env.py
+```
+
+
+# website : 
+![website](assets\WhatsApp Image 2024-09-19 at 18.24.52_a15d58ff.jpg)
+
+### 4. **Examples**
+
+
+
+* **prompt** :
+![p1](assets\WhatsApp Image 2024-09-19 at 18.24.11_586b4cb7.jpg)
+* **result** :
+![p2](assets\WhatsApp Image 2024-09-19 at 18.24.12_928a4c45.jpg)
+* **prompt** : 
+![p3](assets\WhatsApp Image 2024-09-19 at 18.24.53_0dca9831.jpg)
+* **result** : 
+![p4](assets\WhatsApp Image 2024-09-19 at 18.24.54_8de7ddd1.jpg)
+* **prompt** : 
+![p5](assets\WhatsApp Image 2024-09-19 at 18.25.29_57b9158b.jpg)
+* **result** : 
+![p6](assets\WhatsApp Image 2024-09-19 at 18.25.29_828ed248.jpg)
