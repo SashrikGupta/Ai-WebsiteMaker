@@ -32,21 +32,33 @@ python run_in_env.py
 
 
 # website : 
-![website](assets\WhatsApp Image 2024-09-19 at 18.24.52_a15d58ff.jpg)
+![website](assets/WhatsApp Image 2024-09-19 at 18.24.52_a15d58ff.jpg)
 
 ### 4. **Examples**
 
+website:
+![website](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.52_a15d58ff.jpg)
 
+## 4. Examples
 
-* **prompt** :
-![p1](assets\WhatsApp Image 2024-09-19 at 18.24.11_586b4cb7.jpg)
-* **result** :
-![p2](assets\WhatsApp Image 2024-09-19 at 18.24.12_928a4c45.jpg)
-* **prompt** : 
-![p3](assets\WhatsApp Image 2024-09-19 at 18.24.53_0dca9831.jpg)
-* **result** : 
-![p4](assets\WhatsApp Image 2024-09-19 at 18.24.54_8de7ddd1.jpg)
-* **prompt** : 
-![p5](assets\WhatsApp Image 2024-09-19 at 18.25.29_57b9158b.jpg)
-* **result** : 
-![p6](assets\WhatsApp Image 2024-09-19 at 18.25.29_828ed248.jpg)
+### Prompt 1:
+![p1](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.11_586b4cb7.jpg)
+
+### Result 1:
+![p2](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.12_928a4c45.jpg)
+
+---
+
+### Prompt 2:
+![p3](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.53_0dca9831.jpg)
+
+### Result 2:
+![p4](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.54_8de7ddd1.jpg)
+
+---
+
+### Prompt 3:
+![p5](assets/WhatsApp%20Image%202024-09-19%20at%2018.25.29_57b9158b.jpg)
+
+### Result 3:
+![p6](assets/WhatsApp%20Image%202024-09-19%20at%2018.25.29_828ed248.jpg)
