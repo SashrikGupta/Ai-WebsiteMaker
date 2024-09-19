@@ -36,11 +36,6 @@ python run_in_env.py
 
 ### 4. **Examples**
 
-website:
-![website](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.52_a15d58ff.jpg)
-
-## 4. Examples
-
 ### Prompt 1:
 ![p1](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.11_586b4cb7.jpg)
 
