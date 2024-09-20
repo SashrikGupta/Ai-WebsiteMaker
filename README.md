@@ -1,5 +1,9 @@
 # Gemini LLM Website Generator
 
+
+# website : 
+![website](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.52_a15d58ff.jpg)
+
 This project utilizes a fine-tuned version of the Gemini Large Language Model (LLM) trained specifically on Gemini's API documentation. The application is a full-stack, AI-powered website generator with a React frontend interface. It allows users to input a custom prompt, and based on that, the AI will generate a fully functional website. The website created can include different functionalities, depending on the prompt.
 
 For example, you can ask the AI to create a website that generates stories, handles forms, or even interacts with APIs—all driven by the capabilities of the Gemini LLM.
@@ -31,8 +35,6 @@ python run_in_env.py
 ```
 
 
-# website : 
-![website](assets/WhatsApp%20Image%202024-09-19%20at%2018.24.52_a15d58ff.jpg)
 
 ### 4. **Examples**
 
